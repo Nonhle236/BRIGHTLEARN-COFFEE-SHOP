@@ -31,13 +31,13 @@ The dataset contains daily transactional data, including:
 - Product Name  
 - Quantity Sold  
 - Unit Price  
-- Store / Location (if applicable)
+- Store / Location
 
 ---
 
 ## 🛠️ Tools & Technologies
 - **SQL (Databricks SQL)** – Data querying and transformation  
-- **Excel / Power BI / Tableau / Canva** – Data visualization  
+- **Excel / Canva** – Data visualization  
 - **GitHub** – Version control and project documentation  
 
 ---
